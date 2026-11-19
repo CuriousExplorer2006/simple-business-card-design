@@ -1,2 +1,1 @@
-# Frontend-projects
-Some projects that I created in my html and css course
+A simple business card design
